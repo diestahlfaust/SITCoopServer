@@ -1,12 +1,9 @@
 # Stay in Tarkov Coop Multiplayer Installation Instructions
 SIT (Stay in Tarkov) Coop Installation Instructions and Client Modpack for stahlfaust's SIT Coop Server.
-
-**[SIT (Stay in Tarkov)](https://github.com/paulov-t/SIT.Core) is an Escape From Tarkov BepInEx module designed to be used with the [SPT-AKI (Single Player Tarkov)](https://www.sp-tarkov.com/#features) server with the ultimate goal of "Offline" Coop.**
-
 ## [Version 1.0.0 Release](https://github.com/blayne-eyster/StahlfaustSITCoopServer/releases/tag/v1.0.0)
-
-## IMPORTANT!
-
+# What is SIT?
+[SIT (Stay in Tarkov)](https://github.com/paulov-t/SIT.Core) is an Escape From Tarkov BepInEx module designed to be used with the [SPT-AKI (Single Player Tarkov)](https://www.sp-tarkov.com/#features) server with the ultimate goal of "Offline" Coop.
+# Using the AIO Installer and Patching Your Game Files
 **Before you attempt to install SIT, please update Tarkov through the BSG launcher and then start the game.**
 **Take note of your game version in the lower left corner of the screen. This version number will be important in a future step.**
 1. Unzip `stahlfaust's SIT-Coop Server.zip` to an easily accessible place like your Desktop.
