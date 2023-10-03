@@ -35,7 +35,7 @@ SIT (Stay in Tarkov) Coop Installation Instructions and Client Modpack for stahl
 
 	* Let the launcher copy your game files, this can take a few minutes.
 
-## How to use the SIT Launcher
+# How to use the SIT Launcher
 1. Enter the server address into the "Server" field. To join my server enter http://beyster.duckdns.org:6969.
 
 2. Enter your desired username.
@@ -43,7 +43,7 @@ SIT (Stay in Tarkov) Coop Installation Instructions and Client Modpack for stahl
 3. Enter your desired password (don't use any password you care about).
 
 4. Click the `Launch` button to test your installation! If your game loads proceed to the next section. If your game does not load please [click here](https://github.com/blayne-eyster/StahlfaustSITCoopServer/wiki#need-help).
-## Installing Client Side Mods
+# Installing Client Side Mods
 1. Open the `stahlfaust's SIT-Coop Server` folder that you unzipped earlier.
 
 2. Open the `Client Mods` folder.
@@ -54,6 +54,6 @@ SIT (Stay in Tarkov) Coop Installation Instructions and Client Modpack for stahl
 ## Realistic Lighting Mod
 If you would like to install the Realistic Lighting for EFT mod, open the `Optional Amands' Graphics + Reshade` folder and follow the installation instructions below. If you do not want to use the Reshade preset you can configure [Amands' Graphics](https://hub.sp-tarkov.com/files/file/813-amands-s-graphics/) to your liking via the "F12" key.
 ![Instructions](https://github.com/blayne-eyster/StahlfaustSITCoopServer/assets/135766383/15a0c6a1-a398-4a22-924e-8cc6da00db9b)
-## Need Help?
+# Need Help?
 * Try to run `SIT-Patcher-Troubleshooter.exe` if you're running into problems loading the game after installation.
 Please DM me on Discord: "[stahlfaust](https://discord.com/users/588465573009162251)" for futher assistance.
